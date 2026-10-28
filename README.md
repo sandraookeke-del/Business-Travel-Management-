@@ -32,3 +32,5 @@ This is a Business Travel Management Project focused on analysing travel data, t
 - Encourage travellers to use train means of transportation
 - Encourage travellers to use Airbnb especially for those who love total freedom to themselves
 - Travellers should be encouraged to travel in spring just before the peak t reduce ticket fares 
+
+<img width="1294" height="656" alt="Business Travel Management " src="https://github.com/user-attachments/assets/bbe88092-35dc-4cc4-8bfc-f3655baf749e" />
